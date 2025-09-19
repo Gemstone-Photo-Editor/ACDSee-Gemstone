@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://gemstone-photo-editor.github.io/.github/">
-    <img src="https://img.shields.io/badge/??_Get_Gemstone_Photo_Editor-blue?style=for-the-badge&logo=github" alt="Download Gemstone Photo Editor"/>
+    <img src="https://img.shields.io/badge/Get_Gemstone_Photo_Editor-blue?style=for-the-badge&logo=github" alt="Download Gemstone Photo Editor"/>
   </a>
 </p>
 
